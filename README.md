@@ -30,6 +30,9 @@ All portfolio-ready files are stored in [`deliverables/`](./deliverables):
 - [`loom-talk-track.md`](./deliverables/loom-talk-track.md)
   The English script used as a speaking guide for the Loom presentation.
 
+- [`loom-slide-by-slide-guide.md`](./deliverables/loom-slide-by-slide-guide.md)
+  A slide-by-slide speaking companion for presenting the deck more naturally.
+
 - [`sources.md`](./deliverables/sources.md)
   A clean source log with the public references used in the case.
 
@@ -49,6 +52,9 @@ If you open this repository later and want to understand each file quickly:
 - `loom-talk-track.md`
   A practical speaking script for a 5-minute walkthrough of the presentation.
 
+- `loom-slide-by-slide-guide.md`
+  A slide-by-slide version of the speaking guide, aligned with the deck structure.
+
 - `sources.md`
   Source list referenced in the analysis.
 
@@ -59,7 +65,8 @@ If someone reviews this repository from scratch, the simplest order is:
 1. Start with the PDF presentation.
 2. Open the Excel workbook for supporting calculations.
 3. Review `sources.md` for the reference base.
-4. Open `loom-talk-track.md` if you want to understand how the case was verbally presented.
+4. Open `loom-talk-track.md` for the full speaking flow.
+5. Open `loom-slide-by-slide-guide.md` for a slide-by-slide speaking version.
 
 ## Notes
 
