@@ -1,70 +1,60 @@
 ﻿# TaskFlow case // slide-by-slide Loom guide
 
-This file is a practical speaking guide for the Loom presentation. It follows the presentation slide by slide and is designed to help me explain the case naturally in English without improvising too much.
+This file is a concise, slide-by-slide speaking guide for the Loom presentation. It is intentionally shorter than the full talk track and is designed to help me speak clearly, naturally, and within 5 minutes.
 
-## Slide 1 - Opening
+## Slide 1 | 0:00-0:20 | Opening
 Hi, my name is Oksana, and today I will briefly present my solution for the TaskFlow case.
 
-In this presentation, I will explain the core reasons behind TaskFlow's decline, review the market and competitor landscape, and present the strategy I would recommend for the product over the next 12 months.
+I will explain the main reason behind TaskFlow's decline, review the market and competitor context, and present the strategy I would recommend for the next 12 months.
 
-## Slide 2 - Executive summary
+## Slide 2 | 0:20-0:40 | Executive summary
 My main conclusion is that TaskFlow's problem is not a shrinking market.
-The main issue is weakening product-market fit, combined with declining retention, rising churn, and weaker differentiation versus competitors.
+The main issue is weakening product-market fit, together with declining retention, rising churn, and weaker differentiation.
 
-## Slide 3 - Performance decline
-In 2025, all core metrics declined.
-Downloads fell from 48 thousand to 28 thousand, MAU declined from 180 thousand to 105 thousand, and MRR fell from 86.4 thousand dollars to 60 thousand dollars.
-At the same time, CPI increased from 1.8 dollars to 2.6 dollars.
-So the product is losing users while acquisition is becoming more expensive.
+## Slide 3 | 0:40-1:00 | Performance decline
+In 2025, all key business metrics declined.
+Downloads, MAU, and MRR fell, while CPI increased, which means the product is shrinking and acquiring users is becoming more expensive.
 
-## Slide 4 - Diagnosis
+## Slide 4 | 1:00-1:20 | Diagnosis
 I diagnose this primarily as a product and positioning problem.
-The strongest signal is retention deterioration, together with lower app ratings, weak product freshness, and insufficient differentiation from stronger alternatives.
+The strongest evidence is retention decline, lower ratings, weak product freshness, and clearer competitor advantage.
 
-## Slide 5 - Retention and unit economics
-This slide shows why scaling paid acquisition is not the answer right now.
-Churn increased, conversion weakened, and approximate CAC is now almost equal to LTV.
-That means the company has very limited room to grow through paid traffic before improving product value first.
+## Slide 5 | 1:20-1:45 | Retention and unit economics
+This slide explains why paid acquisition is not the right fix right now.
+CAC is now almost equal to LTV, so the company should improve product value before scaling growth.
 
-## Slide 6 - Market and niches
-The market is still attractive, so I would not recommend leaving the productivity category.
-However, generic to-do apps are under pressure, which means TaskFlow needs a sharper niche.
-The strongest fit is a calendar-first planning tool for young professionals, freelancers, and duos.
+## Slide 6 | 1:45-2:05 | Market and niches
+The market is still attractive, so I would not recommend leaving productivity.
+However, TaskFlow needs a sharper niche, and the strongest fit is calendar-first planning for young professionals, freelancers, and duos.
 
-## Slide 7 - Competitor benchmark
+## Slide 7 | 2:05-2:25 | Competitor benchmark
 Here I compare TaskFlow with Todoist, TickTick, Any.do, and Microsoft To Do.
-The benchmark shows that competitors are stronger in collaboration, distribution, product maturity, and update frequency.
+The benchmark shows that competitors are stronger in collaboration, product maturity, and distribution.
 
-## Slide 8 - Competitive gaps and whitespace
-The key point is that TaskFlow should not try to out-feature everyone.
-Instead, it should focus on a narrower and cleaner use case where it can realistically compete with its current team and resources.
+## Slide 8 | 2:25-2:45 | Competitive gaps and whitespace
+TaskFlow should not try to out-feature everyone.
+Instead, it should focus on a narrower and cleaner use case where it can realistically compete.
 
-## Slide 9 - Strategic options
-I considered three options.
-The first is a focused turnaround of the current product.
-The second is a more aggressive AI-first pivot.
-The third is growth expansion into lower-cost segments and geographies.
-After comparing them, I selected the first option as the most realistic and highest-probability path.
+## Slide 9 | 2:45-3:10 | Strategic options
+I considered three options: a focused turnaround, an AI-first pivot, and growth expansion into lower-cost segments.
+The first option is the most realistic and highest-probability path.
 
-## Slide 10 - Recommendation
+## Slide 10 | 3:10-3:35 | Recommendation
 My recommendation is a turnaround strategy, not a full pivot.
-TaskFlow should reposition itself as a calendar-first planner for young professionals, freelancers, and duos.
-The strategy includes product improvements, stronger collaboration, better packaging, smarter growth, and a clearer market focus.
+TaskFlow should reposition itself as a calendar-first planner and improve its core workflow, collaboration, packaging, and growth model.
 
-## Slide 11 - 12-month roadmap
-The roadmap starts with stabilization, then differentiation, then selective AI features, and only after that scaling what works.
-So the company should first improve retention and product quality, and only then increase growth investment.
+## Slide 11 | 3:35-3:55 | Roadmap
+The roadmap starts with stabilization, then differentiation, then selective AI features, and only after that scaling.
+The sequence matters because retention must improve before growth spend increases.
 
-## Slide 12 - KPI targets
+## Slide 12 | 3:55-4:15 | KPI targets
 Success should be measured not only by top-of-funnel growth, but by stronger product value.
-My target metrics include improving D30 retention to 8 to 9 percent, reducing paid churn to 11 to 12 percent, increasing organic share to 25 percent, and recovering MRR to around 78 to 85 thousand dollars.
+My target metrics are better retention, lower churn, higher organic share, and MRR recovery over 12 months.
 
-## Slide 13 - Risks
-I also included the main execution risks: team bandwidth, competitive pressure, AI over-investment, runway pressure, and geographic distraction.
-For each risk, I proposed a practical mitigation approach.
+## Slide 13 | 4:15-4:30 | Risks
+I also included the main execution risks, including team bandwidth, competitive pressure, AI risk, runway pressure, and distraction from low-value markets.
 
-## Slide 14 - Closing
-So overall, my conclusion is simple.
-TaskFlow should remain in the productivity category, avoid a risky full pivot for now, and focus on rebuilding product value, sharper positioning, and more efficient growth.
+## Slide 14 | 4:30-4:50 | Closing
+So overall, my conclusion is simple: TaskFlow should stay in the productivity category, avoid a risky full pivot for now, and focus on restoring product value, sharper positioning, and more efficient growth.
 
 Thank you.
