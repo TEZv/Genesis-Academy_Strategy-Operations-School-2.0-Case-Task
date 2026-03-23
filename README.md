@@ -70,4 +70,4 @@ If someone reviews this repository from scratch, the simplest order is:
 
 ## Important nuance on sharing
 
-Based on the case brief, the author retains the work and may share it after the stage is completed. Because of that, this repository is best treated as a private or portfolio-ready archive first, and shared publicly only when appropriate.
+Based on the case brief, I retain the rights to this work and may share it after the stage is completed. Because of that, I treat this repository as a portfolio-ready archive and share it publicly only when appropriate.
