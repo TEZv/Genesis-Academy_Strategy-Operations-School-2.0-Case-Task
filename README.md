@@ -1,1 +1,1 @@
-# Genesis-Academy_Strategy-Operations-School-2.0-Case-Task
+# Genesis Academy Strategy & Operations School 2.0 // Case Task
