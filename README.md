@@ -65,7 +65,6 @@ If someone reviews this repository from scratch, the simplest order is:
 
 - This repository is designed as a **portfolio-style snapshot** of the submission.
 - The presentation is in English because the product context, competitors, and market references are international.
-- The Loom link can be added later if needed.
 - The source list is duplicated intentionally: once inside the workbook and once in `sources.md`, so the repo remains self-explanatory.
 
 ## Important nuance on sharing
